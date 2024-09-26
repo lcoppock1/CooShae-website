@@ -206,7 +206,6 @@ header .fa-bars{
 }
 
 .about .owners .info span{
-    /* font-size: 3rem; */
     color: var(--pink);
 }
 .about .owners .info p{
@@ -525,6 +524,10 @@ header .fa-bars{
     border: .1rem solid rgba (0,0,0,.1);
     display: block;
    }
+
+    header .icons a.fa-user-nurse {
+        display: none;
+    }
 
    .home .content h3{
     font-size: 5rem;
