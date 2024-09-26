@@ -204,6 +204,11 @@ header .fa-bars{
     font-size: 3rem;
     color: var(--pink);
 }
+
+.about .owners .info span{
+    /* font-size: 3rem; */
+    color: var(--pink);
+}
 .about .owners .info p{
     font-size: 1.8rem;
     color: #808080;
