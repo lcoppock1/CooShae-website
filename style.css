@@ -545,12 +545,13 @@ header .fa-bars{
     display: block;
 }
 
-
-}
-
-.icons-container .icons span{
+    .icons-container .icons span{
     font-size: 1.7rem;
 }
+
+}
+
+
 
 @media (max-width: 450px){
 
